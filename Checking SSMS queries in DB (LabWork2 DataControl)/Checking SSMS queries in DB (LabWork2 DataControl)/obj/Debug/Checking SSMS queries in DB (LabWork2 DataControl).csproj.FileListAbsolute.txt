@@ -1,0 +1,17 @@
+C:\Users\Csar\source\repos\Checking SSMS queries in DB (LabWork2 DataControl)\Checking SSMS queries in DB (LabWork2 DataControl)\bin\Debug\Checking SSMS queries in DB (LabWork2 DataControl).exe.config
+C:\Users\Csar\source\repos\Checking SSMS queries in DB (LabWork2 DataControl)\Checking SSMS queries in DB (LabWork2 DataControl)\bin\Debug\Checking SSMS queries in DB (LabWork2 DataControl).exe
+C:\Users\Csar\source\repos\Checking SSMS queries in DB (LabWork2 DataControl)\Checking SSMS queries in DB (LabWork2 DataControl)\bin\Debug\Checking SSMS queries in DB (LabWork2 DataControl).pdb
+C:\Users\Csar\source\repos\Checking SSMS queries in DB (LabWork2 DataControl)\Checking SSMS queries in DB (LabWork2 DataControl)\obj\Debug\Checking SSMS queries in DB (LabWork2 DataControl).csprojAssemblyReference.cache
+C:\Users\Csar\source\repos\Checking SSMS queries in DB (LabWork2 DataControl)\Checking SSMS queries in DB (LabWork2 DataControl)\obj\Debug\Checking_SSMS_queries_in_DB__LabWork2_DataControl_.Curriculum.resources
+C:\Users\Csar\source\repos\Checking SSMS queries in DB (LabWork2 DataControl)\Checking SSMS queries in DB (LabWork2 DataControl)\obj\Debug\Checking_SSMS_queries_in_DB__LabWork2_DataControl_.Subject.resources
+C:\Users\Csar\source\repos\Checking SSMS queries in DB (LabWork2 DataControl)\Checking SSMS queries in DB (LabWork2 DataControl)\obj\Debug\Checking_SSMS_queries_in_DB__LabWork2_DataControl_.SudentHasTasks.resources
+C:\Users\Csar\source\repos\Checking SSMS queries in DB (LabWork2 DataControl)\Checking SSMS queries in DB (LabWork2 DataControl)\obj\Debug\Checking_SSMS_queries_in_DB__LabWork2_DataControl_.Group.resources
+C:\Users\Csar\source\repos\Checking SSMS queries in DB (LabWork2 DataControl)\Checking SSMS queries in DB (LabWork2 DataControl)\obj\Debug\Checking_SSMS_queries_in_DB__LabWork2_DataControl_.Student.resources
+C:\Users\Csar\source\repos\Checking SSMS queries in DB (LabWork2 DataControl)\Checking SSMS queries in DB (LabWork2 DataControl)\obj\Debug\Checking_SSMS_queries_in_DB__LabWork2_DataControl_.Properties.Resources.resources
+C:\Users\Csar\source\repos\Checking SSMS queries in DB (LabWork2 DataControl)\Checking SSMS queries in DB (LabWork2 DataControl)\obj\Debug\Checking_SSMS_queries_in_DB__LabWork2_DataControl_.Tasks.resources
+C:\Users\Csar\source\repos\Checking SSMS queries in DB (LabWork2 DataControl)\Checking SSMS queries in DB (LabWork2 DataControl)\obj\Debug\Checking SSMS queries in DB (LabWork2 DataControl).csproj.GenerateResource.cache
+C:\Users\Csar\source\repos\Checking SSMS queries in DB (LabWork2 DataControl)\Checking SSMS queries in DB (LabWork2 DataControl)\obj\Debug\Checking SSMS queries in DB (LabWork2 DataControl).csproj.CoreCompileInputs.cache
+C:\Users\Csar\source\repos\Checking SSMS queries in DB (LabWork2 DataControl)\Checking SSMS queries in DB (LabWork2 DataControl)\obj\Debug\Checking SSMS queries in DB (LabWork2 DataControl).exe
+C:\Users\Csar\source\repos\Checking SSMS queries in DB (LabWork2 DataControl)\Checking SSMS queries in DB (LabWork2 DataControl)\obj\Debug\Checking SSMS queries in DB (LabWork2 DataControl).pdb
+C:\Users\Csar\source\repos\Checking SSMS queries in DB (LabWork2 DataControl)\Checking SSMS queries in DB (LabWork2 DataControl)\obj\Debug\Checking_SSMS_queries_in_DB__LabWork2_DataControl_.Begin.resources
+C:\Users\Csar\source\repos\Checking SSMS queries in DB (LabWork2 DataControl)\Checking SSMS queries in DB (LabWork2 DataControl)\obj\Debug\Checking_SSMS_queries_in_DB__LabWork2_DataControl_.ComplexTable.resources
